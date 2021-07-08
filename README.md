@@ -1,3 +1,3 @@
-Uses SpacedOutChicken's module Upside down(https://github.com/SpacedOutChicken/Upside-Down.git).
+Uses SpacedOutChicken's module Upside down(https://github.com/SpacedOutChicken/Upside-Down.git). Use Mount and blade Warband's Prophesy of Pendor's content.
 
-Some upside down units have very big changes. Be warned, this mod can be called many things, but I can assure you that in no way will this be called balanced.
+Mount and Blade Warband's Prophesy of Pendor reporting. Request Permission to turn Middle Earth Upside-down, SIR!
