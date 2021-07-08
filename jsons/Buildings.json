@@ -295,7 +295,7 @@
 		"uniques": ["Free [Knights of the Falcon] appears","Unsellable","Will not be displayed in Civilopedia"],
 	},
 {
-		"name": "Summon Rayne",
+		"name": "Summon Stephan",
 		"uniqueTo": "Continent of Pendor",
 		"isWonder": true,
 		"cost": 159,
