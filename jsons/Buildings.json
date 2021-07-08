@@ -28,6 +28,7 @@
 		"cost": 564,
 		"uniques": ["Free [Knights of the Lion] appears","Unsellable","Will not be displayed in Civilopedia"],
 	},
+        {
 		"name": "Summon Aelfwine",
 		"uniqueTo": "Continent of Pendor",
 		"isWonder": true,
