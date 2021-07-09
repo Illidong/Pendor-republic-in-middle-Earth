@@ -4,41 +4,6 @@ size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Eltsac
-  rotate: false
-  xy: 4, 292
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Knab
-  rotate: false
-  xy: 112, 292
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Pohskrow
-  rotate: false
-  xy: 328, 184
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Retaehtihpma
-  rotate: false
-  xy: 652, 400
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Retaw Llim
-  rotate: false
-  xy: 436, 77
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/Order of Eventide
   rotate: false
   xy: 760, 400
@@ -46,58 +11,135 @@ BuildingIcons/Order of Eventide
   orig: 100, 100
   offset: 0, 0
   index: -1
- BuildingIcons/Order of Dawn
+ BuildingIcons/Order of the Dawn
   rotate: false
   xy: 760, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1 
-BuildingIcons/Sllaw
+  BuildingIcons/Valkyries Sisterhood
   rotate: false
-  xy: 652, 184
+  xy: 760, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Tekram
+ BuildingIcons/Order of the Clarion Call
   rotate: false
-  xy: 760, 184
+  xy: 760, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1 
+  BuildingIcons/Order of the Dragon
+  rotate: false
+  xy: 760, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Yrarbil
+ BuildingIcons/Order of the Ebony Gauntlet
   rotate: false
-  xy: 1084, 400
+  xy: 760, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1 
+  BuildingIcons/Order of the Falcon
+  rotate: false
+  xy: 760, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Ytisrevinu
+ BuildingIcons/Order of the Griffon
   rotate: false
-  xy: 1084, 292
+  xy: 760, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1 
+  BuildingIcons/Order of the Lion
+  rotate: false
+  xy: 760, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Ecarret mraf
+ BuildingIcons/Order of the Phoenix
   rotate: false
-  xy: 4, 400
+  xy: 760, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1 
+  BuildingIcons/Order of the Radiant Cross
+  rotate: false
+  xy: 760, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+ BuildingIcons/Order of the Raven Spear
+  rotate: false
+  xy: 760, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1 
+   BuildingIcons/Order of the Shadow Legion
+  rotate: false
+  xy: 760, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1 
+  BuildingIcons/Order of the Shadow Wolves
+  rotate: false
+  xy: 760, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ BuildingIcons/Order of the Scorpion Assassins
+  rotate: false
+  xy: 760, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1 
+  BuildingIcons/Order of the Silvermist Rangers
+  rotate: false
+  xy: 760, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ BuildingIcons/Order of the Kraken Cultists
+  rotate: false
+  xy: 760, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1 
+ BuildingIcons/D'Shar Windriders
+  rotate: false
+  xy: 760, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ BuildingIcons/Empire Immortals
+  rotate: false
+  xy: 760, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1 
 ImprovementIcons/Order Stronghold
   rotate: false
   xy: 4, 184
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Redlop
-  rotate: false
-  xy: 328, 76
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
