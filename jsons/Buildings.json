@@ -158,7 +158,10 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
 		"requiredTech": "Bronze Working"
   	},
 	{
