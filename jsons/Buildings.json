@@ -316,14 +316,24 @@
 		"uniques": ["Free [Griffon Retainers] appears","Unsellable","Will not be displayed in Civilopedia"],
 	},
    	{
-    	"name": "Yrarbil",
+                "name": "Order of Eventide",
 		"replaces": "Library",
-		"uniqueTo": "Upside-Down",
+		"uniqueTo": "Continent of Pendor",
 		"cost": 240,
 		"hurryCostModifier": 250,
 		"gold": 20,
 		"uniques": ["[+2 Science] per [1] population [in this city]"],
 		"requiredTech": "Writing"
+	},
+	{
+                "name": "Order of the Dawn",
+		"replaces": "Library",
+		"uniqueTo": "Continent of Pendor",
+		"cost": 240,
+		"hurryCostModifier": 250,
+		"gold": 20,
+		"uniques": ["[+2 Science] per [1] population [in this city]"],
+		"requiredTech": "Calendar"
 	},
 	{
 		"name": "Retaw Llim",
