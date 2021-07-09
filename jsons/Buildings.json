@@ -162,7 +162,7 @@
 		"percentStatBonus":{"gold": 50},
 		"percentStatBonus":{"production": 10},
 		"percentStatBonus":{"science": 33},
-		"requiredTech": "Bronze Working"
+		"requiredTech": "Theology"
   	},
 	{
 		"name": "Empire Immortals",
@@ -189,8 +189,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Civil Service"
   	},
 	{
 		"name": "Valkyries Sisterhood",
@@ -217,8 +220,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Guilds"
   	},
 	{
 		"name": "Order of the Clarion Call",
@@ -235,9 +241,21 @@
 		"gold": 4,
 		"hurryCostModifier": 250,
 		"maintenance": 1,
-		"uniques": ["-[50]% Culture cost of acquiring tiles [in this city]",
-			"-[50]% Gold cost of acquiring tiles [in this city]"],
-		"requiredTech": "Bronze Working"
+		"uniques": ["-[5]% Culture cost of acquiring tiles [in this city]",
+			"-[5]% Gold cost of acquiring tiles [in this city]",
+			"+4 Food] from [Lakes] tiles [in this city]",
+			"Provides 1 extra copy of each improved luxury resource near this City",
+			"[+4 Gold] from [Oil] tiles [in this city]",
+			"[+4 Gold] from [Oasis] tiles [in this city]",
+			"[+2 Production] from [Forest] tiles [in this city]",
+			"[+4 Science] from [Jungle] tiles [in this city]",
+			"[+2 Gold] once [Flight] is discovered",
+			"+10% Production for every Trade Route with a City-State in the empire"],
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Metal Casting"
   	},
 	{
 		"name": "Order of Eventide",
@@ -264,8 +282,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Compass"
   	},
 	{
 		"name": "Order of the Dawn",
@@ -292,8 +313,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Education"
   	},
 	{
 		"name": "Order of the Dragon",
@@ -320,8 +344,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Chivalry"
   	},
 	{
 		"name": "Order of the Ebony Gauntlet",
@@ -348,8 +375,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Machinery"
   	},
 	{
 		"name": "Order of the Falcon",
@@ -376,8 +406,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Physics"
   	},
 	{
 		"name": "Order of the Griffon",
@@ -404,8 +437,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Steel"
   	},
 	{
 		"name": "Order of the Lion",
@@ -432,8 +468,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Astronomy"
   	},
 	{
 		"name": "Order of the Phoenix",
@@ -460,8 +499,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 30},{"gold": 50},{"production": 20},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 30},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 20},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Acoustics"
   	},
 	{
 		"name": "Order of the Radiant Cross",
@@ -488,8 +530,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Banking"
   	},
 	{
 		"name": "Order of the Raven Spear",
@@ -516,8 +561,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Printing Press"
   	},
 	{
 		"name": "Order of the Shadow Legion",
@@ -544,8 +592,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Metallurgy"
   	},
 	{
 		"name": "Order of the Shadow Wolves",
@@ -572,8 +623,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 30},{"gold": 50},{"production": 20},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 30},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 20},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Chemistry"
   	},
 	{
 		"name": "Order of the Scorpion Assassins",
@@ -601,7 +655,7 @@
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
 		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"requiredTech": "Economics"
   	},
 	{
 		"name": "Order of the Silvermist Rangers",
@@ -628,8 +682,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Architecture"
   	},
 	{
 		"name": "Order of the Kraken Cultists",
@@ -656,8 +713,11 @@
 			"[+4 Science] from [Jungle] tiles [in this city]",
 			"[+2 Gold] once [Flight] is discovered",
 			"+10% Production for every Trade Route with a City-State in the empire"],
-		"percentStatBonus": {"food": 15},{"gold": 50},{"production": 10},{"science": 33},
-		"requiredTech": "Bronze Working"
+		"percentStatBonus": {"food": 15},
+		"percentStatBonus":{"gold": 50},
+		"percentStatBonus":{"production": 10},
+		"percentStatBonus":{"science": 33},
+		"requiredTech": "Navigation"
   	},
 	
 ]
